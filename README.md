@@ -1,5 +1,3 @@
-
-https://github.com/vvaditya23/Blind-Auction/assets/70578987/5984793f-ffac-49cb-b938-f39b47b758ac
 # Blind-Auction
 Bid blindly on something valuable with your mates and let the strongest bid win!
 
